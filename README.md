@@ -1,4 +1,4 @@
-# bikesharing
+# NYC Citibike 
 
 ## Purpose:
 Import data into Tableau.
@@ -10,7 +10,7 @@ Portray data accurately using Tableau dashboards.
 Des Moines requested data for a business proposal. August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for Des Moines. Other data points include usage durations, peak usage times, and the key target market.
 
 ## Link to Tableau Story:
-Tableau Story
+[link to dashboard]https://public.tableau.com/app/profile/vasudha1634
 
 ## Cleaning the Data:
 Jupyter Notebook was used to change the trip duration data to a datetime field. 
